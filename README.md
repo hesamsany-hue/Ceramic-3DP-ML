@@ -1,5 +1,4 @@
-# Ceramic-3DP-ML
-#TEAM-5
+markdown
 # Ceramic 3D Printing Dimensional Error Prediction
 
 ## Project Overview
@@ -10,14 +9,14 @@ project/
 ├── data/
 │ └── ceramic_3d_printing_data.csv # Main dataset (1000 records, 10 features + target)
 ├── notebooks/
-│ └── ceramic_3d_printing_ml_revised.ipynb # Fully executed notebook with outputs
+│ └── ceramic_3d_printing_ml.ipynb # Fully executed notebook with outputs
 ├── requirements.txt # Python dependencies
 └── README.md # This file
 
 text
 
 ## Dependencies (Requirements)
-All required Python libraries are listed in `requirements.txt`. To install them, run:
+To run this notebook locally, install the required libraries using:
 ```bash
 pip install -r requirements.txt
 How to Run / Reproduce Results
@@ -25,19 +24,18 @@ Option 1: Run on Google Colab (Recommended for Review)
 Click the badge below to open the notebook directly in Google Colab. All cells are pre-executed, but you can re-run them via Runtime > Run all.
 
 https://colab.research.google.com/assets/colab-badge.svg
-(Please replace YOUR-USERNAME in the link above with your actual GitHub username)
 
 Option 2: Run Locally
 Clone this repository:
 
 bash
-git clone https://github.com/YOUR-USERNAME/Ceramic-3DP-ML.git
+git clone https://github.com/hesamsany-hue/Ceramic-3DP-ML.git
 cd Ceramic-3DP-ML
 Install dependencies:
 
 bash
 pip install -r requirements.txt
-Launch Jupyter Notebook and open notebooks/ceramic_3d_printing_ml_revised.ipynb.
+Launch Jupyter Notebook and open notebooks/ceramic_3d_printing_ml.ipynb.
 
 Run all cells sequentially.
 
