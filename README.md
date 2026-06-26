@@ -23,7 +23,7 @@ How to Run / Reproduce Results
 Option 1: Run on Google Colab (Recommended for Review)
 Click the badge below to open the notebook directly in Google Colab. All cells are pre-executed, but you can re-run them via Runtime > Run all.
 
-https://colab.research.google.com/assets/colab-badge.svg
+https://colab.research.google.com/github/hesamsany-hue/Ceramic-3DP-ML/blob/main/notebooks/ceramic_3d_printing_ml.ipynb 
 
 Option 2: Run Locally
 Clone this repository:
